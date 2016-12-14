@@ -1,0 +1,17 @@
+/**************
+GENERAL
+**************/
+
+h2,
+footer {
+	margin: 25px auto; 
+}
+
+h4 {
+	line-height: 140%;
+}
+
+.img-responsive {
+	margin: 10px auto 35px;
+}
+
