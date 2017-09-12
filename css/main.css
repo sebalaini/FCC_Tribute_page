@@ -2,16 +2,32 @@
 GENERAL
 **************/
 
+#main {
+	max-width: 1200px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#tribute-info {
+	padding: 0 20px;
+}
+
 h2,
 footer {
-	margin: 25px auto; 
+	margin: 25px auto;
 }
 
 h4 {
 	line-height: 140%;
 }
 
-.img-responsive {
-	margin: 10px auto 35px;
+#img-div {
+	width: 100%;
+	margin: 0 auto 20px;
+	text-align: center;
 }
 
+#image {
+	max-width: 90%;
+	margin: 10px auto 35px;
+}
